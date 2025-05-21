@@ -41,7 +41,7 @@ To get started, you can create a new conda environment with all the required pac
 
 ```bash
 # Step 1: Clone the repo
-git https://github.com/yashagarwal16/Stats_for_DataScience.git
+git https://github.com/Muskanbhagat123/Stats_for_DataScience.git
 cd Stats_for_DataScience
 
 # Step 2: Create a conda environment
